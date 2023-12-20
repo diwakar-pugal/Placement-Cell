@@ -1,8 +1,7 @@
 # NodeJS-Placement-Cell
  <h1 align="center">Placement Cell  📝</h1> 
 <p align="center">
- 🖊️ An interface for coding ninjas placement cell to keep records of students and schedule interviews with different companies <br>
-     This App built using <a href="https://ejs.co/">EJS</a>, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://expressjs.com/">ExpressJs</a>, <a href="https://nodejs.org/en/">NodeJs</a> and <a href="http://www.passportjs.org/">PassportJS</a>
+ 🖊️ A Web Portal for placement cell Company to keep records of students and schedule interviews with different companies <br>
 </p>
 
 ## Features
@@ -15,22 +14,25 @@
 ## Screenshots
 
 - Sign Up
-  ![Sign-Up](./images/1.PNG)
+  ![Sign-Up](./images/2.PNG)
 
 - Sign In
-  ![Sign-In](./images/login.PNG)
+  ![Sign-In](./images/1.PNG)
 
 - Student Page
-  ![Student-Page](./images/studentlist.PNG)
+  ![Student-Page](./images/3.PNG)
 
 - Interview Page
-  ![Interview-Page](./images/companylist.PNG)
+  ![Interview-Page](./images/4.PNG)
 
 - Add student
-  ![Add-Student](./images/AddStudent.PNG)
+  ![Add-Student](./images/5.PNG)
 
 - Schedule Interview
-  ![Interview](./images/InterviewSchedule.PNG)
+  ![Interview](./images/6.PNG)
+
+- CSV Report
+  ![Report](./images/7.PNG)
 
 ## Setup
 
