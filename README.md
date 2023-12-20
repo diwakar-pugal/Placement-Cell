@@ -15,7 +15,7 @@
 ## Screenshots
 
 - Sign Up
-  ![Sign-Up](./images/AddStudent.PNG)
+  ![Sign-Up](./images/1.PNG)
 
 - Sign In
   ![Sign-In](./images/login.PNG)
